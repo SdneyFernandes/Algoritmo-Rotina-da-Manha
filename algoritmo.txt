@@ -1,0 +1,31 @@
+Algoritmo: Rotina da Manhã
+
+
+inicio
+    // Acordar
+    ("Despertar com o alarme.")
+    ("Levantar da cama.")
+
+    // Higiene pessoal
+    ("Ir ao banheiro.")
+    ("Escovar os dentes.")
+    ("Lavar o rosto.")
+
+    // Vestir-se
+    ("Trocar de roupa.")
+
+    // Preparar o café da manhã
+    ("Ir para a cozinha.")
+    ("Preparar o café.")
+    ("Preparar o pão.")
+    ("Pegar um copo de suco.")
+
+    // Tomar o café da manhã
+    ("Sentar-se à mesa.")
+    ("Tomar o café da manhã.")
+
+    // Finalizar
+    ("Limpar a mesa.")
+    ("Guardar os utensílios.")
+
+fim
